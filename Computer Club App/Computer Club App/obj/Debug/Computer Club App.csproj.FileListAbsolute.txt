@@ -1,0 +1,411 @@
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe.config
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\bin\Debug\Computer Club App.pdb
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.AssemblyReference.cache
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Login.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Properties.Resources.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.GenerateResource.cache
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.CoreCompileInputs.cache
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer Club App.exe
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer Club App.pdb
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Registration.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Help.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests.resources
+C:\Users\429194-26\Desktop\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe.config
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\bin\Debug\Computer Club App.pdb
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.AssemblyReference.cache
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Help.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Login.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Properties.Resources.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Registration.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.GenerateResource.cache
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.CoreCompileInputs.cache
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer Club App.exe
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer Club App.pdb
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Add.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers_Add.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs_Add.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPU_Add.resources
+F:\УП 02.01\Задание 4\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPU_Add.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.AssemblyReference.cache
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.ComputersForm.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers_Add.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Delete.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Select.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Update.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUsForm.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPU_Add.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Delete.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Select.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Update.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUsForm.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPU_Add.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Delete.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Select.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Update.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Help.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Login.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Properties.Resources.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Registration.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Add.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Del.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Select.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_Update.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.TariffsForm.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs_Add.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Delete.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Select.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Update.resources
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.GenerateResource.cache
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.CoreCompileInputs.cache
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe.config
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\Computer Club App.pdb
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\EPPlus.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\EPPlus.Interfaces.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\EPPlus.System.Drawing.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Buffers.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.ComponentModel.Annotations.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Memory.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\EPPlus.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Buffers.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.pdb
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Memory.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer.B2A4A0C3.Up2Date
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer Club App.exe
+E:\УП 02.01\Какать\Computer Club App\Computer Club App\obj\Debug\Computer Club App.pdb
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe.config
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\Computer Club App.pdb
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\EPPlus.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\EPPlus.Interfaces.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\EPPlus.System.Drawing.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Buffers.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.ComponentModel.Annotations.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Memory.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\EPPlus.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Buffers.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.pdb
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Memory.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.AssemblyReference.cache
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.ComputersForm.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers_Add.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Delete.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Select.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Update.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUsForm.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPU_Add.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Delete.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Select.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Update.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUsForm.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPU_Add.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Delete.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Select.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Update.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Help.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Login.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Properties.Resources.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Registration.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Add.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Del.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Select.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_Update.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.TariffsForm.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs_Add.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Delete.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Select.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Update.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.GenerateResource.cache
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.CoreCompileInputs.cache
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer.B2A4A0C3.Up2Date
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer Club App.exe
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer Club App.pdb
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main_Client.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Client.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_AddClie.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliUpdate.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliDelete.resources
+F:\УП 02.01\123123\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliSelect.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe.config
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Computer Club App.pdb
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\EPPlus.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\EPPlus.Interfaces.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\EPPlus.System.Drawing.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Buffers.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.ComponentModel.Annotations.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Memory.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\EPPlus.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Buffers.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.pdb
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Memory.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.AssemblyReference.cache
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.ComputersForm.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers_Add.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Delete.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Select.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Update.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUsForm.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPU_Add.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Delete.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Select.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Update.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUsForm.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPU_Add.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Delete.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Select.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Update.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Help.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Login.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main_Client.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Properties.Resources.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Registration.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Add.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliDelete.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Client.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliSelect.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliUpdate.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Del.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Select.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_AddClie.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_Update.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.TariffsForm.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs_Add.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Delete.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Select.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Update.resources
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.GenerateResource.cache
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.CoreCompileInputs.cache
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer.B2A4A0C3.Up2Date
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer Club App.exe
+E:\УП 02.01\456789\Computer Club App\Computer Club App\obj\Debug\Computer Club App.pdb
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\NUnit3.TestAdapter.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\NUnit3.TestAdapter.pdb
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\nunit.engine.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\nunit.engine.api.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\nunit.engine.core.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\testcentric.engine.metadata.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Castle.Core.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Moq.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\nunit.framework.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\nunit.framework.legacy.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.ValueTuple.dll
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\Castle.Core.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\nunit.framework.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\nunit.framework.legacy.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\УП 02.01\456789\Computer Club App\Computer Club App\bin\Debug\System.ValueTuple.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\NUnit3.TestAdapter.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\NUnit3.TestAdapter.pdb
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.engine.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.engine.api.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.engine.core.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\testcentric.engine.metadata.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe.config
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Computer Club App.pdb
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Castle.Core.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.Interfaces.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.System.Drawing.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Moq.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.legacy.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Buffers.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.ComponentModel.Annotations.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Memory.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.ValueTuple.dll
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Castle.Core.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.legacy.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Buffers.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.pdb
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Memory.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.ValueTuple.xml
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.AssemblyReference.cache
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.ComputersForm.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers_Add.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Delete.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Select.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Update.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUsForm.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPU_Add.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Delete.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Select.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Update.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUsForm.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPU_Add.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Delete.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Select.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Update.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Help.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Login.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main_Client.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Properties.Resources.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Registration.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Add.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliDelete.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Client.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliSelect.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliUpdate.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Del.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Select.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_AddClie.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_Update.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.TariffsForm.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs_Add.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Delete.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Select.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Update.resources
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.GenerateResource.cache
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.CoreCompileInputs.cache
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer.B2A4A0C3.Up2Date
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.exe
+F:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.pdb
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\NUnit3.TestAdapter.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\NUnit3.TestAdapter.pdb
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.engine.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.engine.api.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.engine.core.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\testcentric.engine.metadata.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe.config
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Computer Club App.exe
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Computer Club App.pdb
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Castle.Core.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.Interfaces.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.System.Drawing.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Moq.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.legacy.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Buffers.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.ComponentModel.Annotations.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Memory.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.ValueTuple.dll
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\BCrypt.Net-Next.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Castle.Core.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\EPPlus.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\nunit.framework.legacy.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Buffers.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.pdb
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Drawing.Common.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Memory.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Numerics.Vectors.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\bin\Debug\System.ValueTuple.xml
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.AssemblyReference.cache
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.ComputersForm.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers_Add.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Delete.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Select.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Computers.Computers_Update.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUsForm.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPU_Add.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Delete.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Select.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.CPUs.CPU_Update.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUsForm.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPU_Add.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Delete.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Select.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.GPUs.GPU_Update.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Help.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Login.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Main_Client.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Properties.Resources.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Registration.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Add.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliDelete.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Client.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliSelect.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_CliUpdate.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Del.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Requests_Select.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_AddClie.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Request_Update.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.TariffsForm.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs_Add.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Delete.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Select.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer_Club_App.Tariffs.Tariffs_Update.resources
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.GenerateResource.cache
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.csproj.CoreCompileInputs.cache
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer.B2A4A0C3.Up2Date
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.exe
+E:\УП 02.01\Aboba\Computer Club App\Computer Club App\obj\Debug\Computer Club App.pdb

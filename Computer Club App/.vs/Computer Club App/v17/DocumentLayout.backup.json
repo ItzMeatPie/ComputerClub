@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\gpus\\gpu_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\gpus\\gpu_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\computer club app\\gpus\\gpu_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\gpus\\gpu_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\gpus\\gpu_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\gpus\\gpu_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\gpus\\gpu_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\gpus\\gpu_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\app_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\app_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\tariffs\\tariffs_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\tariffs\\tariffs_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\tariffs\\tariffs_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\tariffs\\tariffs_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\cpus\\cpu_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\cpus\\cpu_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\gpus\\gpu_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\gpus\\gpu_delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|e:\\\u0443\u043F 02.01\\aboba\\computer club app\\computer club app\\cpus\\cpu_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\cpus\\cpu_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\computer club app\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951734D6-D535-4483-BA9A-4E082E4A23C6}|Computer Club App\\Computer Club App.csproj|solutionrelative:computer club app\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPU_Add.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Add.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\GPUs\\GPU_Add.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Add.cs",
+              "RelativeToolTip": "Computer Club App\\GPUs\\GPU_Add.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:17:02.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GPU_Update.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Update.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\GPUs\\GPU_Update.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Update.cs",
+              "RelativeToolTip": "Computer Club App\\GPUs\\GPU_Update.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:15:31.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPU_Update.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Update.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\GPUs\\GPU_Update.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Update.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Computer Club App\\GPUs\\GPU_Update.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:15:28.063Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tariffs_Add.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\Tariffs\\Tariffs_Add.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\Tariffs\\Tariffs_Add.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\Tariffs\\Tariffs_Add.cs",
+              "RelativeToolTip": "Computer Club App\\Tariffs\\Tariffs_Add.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:50:31.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tariffs_Add.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\Tariffs\\Tariffs_Add.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\Tariffs\\Tariffs_Add.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\Tariffs\\Tariffs_Add.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Computer Club App\\Tariffs\\Tariffs_Add.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:50:21.765Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CPU_Delete.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\CPUs\\CPU_Delete.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\CPUs\\CPU_Delete.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\CPUs\\CPU_Delete.cs",
+              "RelativeToolTip": "Computer Club App\\CPUs\\CPU_Delete.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:48:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GPU_Delete.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Delete.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\GPUs\\GPU_Delete.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Delete.cs",
+              "RelativeToolTip": "Computer Club App\\GPUs\\GPU_Delete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:39:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GPU_Add.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Add.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\GPUs\\GPU_Add.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\GPUs\\GPU_Add.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Computer Club App\\GPUs\\GPU_Add.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:33:28.876Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CPU_Add.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\CPUs\\CPU_Add.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\CPUs\\CPU_Add.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\CPUs\\CPU_Add.cs",
+              "RelativeToolTip": "Computer Club App\\CPUs\\CPU_Add.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwH4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:46:37.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App_Tests.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\App_Tests.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\App_Tests.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\App_Tests.cs",
+              "RelativeToolTip": "Computer Club App\\App_Tests.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAkwCkBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:48:29.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\DataBase.cs",
+              "RelativeDocumentMoniker": "Computer Club App\\DataBase.cs",
+              "ToolTip": "E:\\\u0423\u041F 02.01\\Aboba\\Computer Club App\\Computer Club App\\DataBase.cs",
+              "RelativeToolTip": "Computer Club App\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:55:05.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
